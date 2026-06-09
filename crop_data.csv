@@ -1,0 +1,9 @@
+N,P,K,temperature,humidity,crop
+90,42,43,20.8,82,rice
+85,58,41,21.7,80,rice
+60,55,44,25,60,maize
+65,60,50,26,65,maize
+40,40,40,30,50,cotton
+45,45,42,31,55,cotton
+70,50,48,24,70,wheat
+75,52,50,23,68,wheat
